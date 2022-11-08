@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/goSellSDK-Android-Private.iml" filepath="$PROJECT_DIR$/.idea/modules/goSellSDK-Android-Private.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/goSellSDKSample/goSellSDK-Android-Private.goSellSDKSample.iml" filepath="$PROJECT_DIR$/.idea/modules/goSellSDKSample/goSellSDK-Android-Private.goSellSDKSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/goSellSDKSample/goSellSDK-Android-Private.goSellSDKSample.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/goSellSDKSample/goSellSDK-Android-Private.goSellSDKSample.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/goSellSDKSample/goSellSDK-Android-Private.goSellSDKSample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/goSellSDKSample/goSellSDK-Android-Private.goSellSDKSample.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/goSellSDKSample/goSellSDK-Android-Private.goSellSDKSample.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/goSellSDKSample/goSellSDK-Android-Private.goSellSDKSample.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/goSellSDK-Android-Private.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/goSellSDK-Android-Private.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/goSellSDK-Android-Private.library.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/goSellSDK-Android-Private.library.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/goSellSDK-Android-Private.library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/library/goSellSDK-Android-Private.library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/goSellSDK-Android-Private.library.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/goSellSDK-Android-Private.library.unitTest.iml" />
+    </modules>
+  </component>
+</project>
